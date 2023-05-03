@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TheRealDarkShark
-- 👀 I’m interested in coding websites
-- 🌱 I’m currently learning C++ and Python
+14 year old located in the DC area
+
 
 <!---
 TheRealDarkShark/TheRealDarkShark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
